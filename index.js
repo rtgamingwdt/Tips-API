@@ -8,4 +8,8 @@ app.get("/factions", (req, res) => {
   res.send(api.tips[random]);
 });
 
+app.use((req, res) => {
+  res.send({ message: "Something went wrong qwq.", error: "404: Page was not found"});
+});
+
 app.listen(process.env.PORT);
