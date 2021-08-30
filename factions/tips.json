@@ -1,0 +1,63 @@
+{
+ "tips": [
+   {
+     "tip": "Make a base either high in the sky, or low in bedrock."
+   }, {
+     "tip": "Surround your base in obsidian, lava, water, and other hard to break blocks."
+   }, {
+     "tip": "If possible, make a regenerating wall, tutorials are online."
+   }, {
+     "tip": "Protect your chests from other faction members, you can never be too safe."
+   }, {
+     "tip": "Refrain from putting items in open such as chests and ore blocks. Hackers can use X-ray to see these."
+   }, {
+     "tip": "Use trapped chests, as in many X-rays these do not show up."
+   }, {
+     "tip": "Claim surrounding chunks, so TNT cannons are less effective if you can."
+   }, {
+     "tip": "NEVER make a base close to spawn or on the world border. People always look at these locations for bases"
+   }, {
+     "tip": "Sky Bases are best located above a large and deep ocean"
+   }, {
+     "tip": "Bedrock Bases are best located under a large and deep ocean"
+   }, {
+     "tip": "Protect your base well. Add multiple layers of obsidian and cover each layer with a separate water/lava layer for maximum protection."
+   }, {
+     "tip": "Make sure to only accept trusted players."
+   }, {
+     "tip": "Make sure to hide your loot."
+   }, {
+     "tip": "Make sure to kick any suspicious players from your faction."
+   }, {
+     "tip": "Only PVP with non-valuble items in your inventory."
+   }, {
+     "tip": "Keep all prized items in enderchests. Located at spawn or use the command /vault."
+   }, {
+     "tip": "Do not allow random people to teleport to you and don’t teleport to random people with valuables."
+   }, {
+     "tip": "Do not allow anyone to use the /sethome command in your faction besides you. (Although you probably won’t know if they do.)"
+   }, {
+     "tip": "Do not dig straight down or straight up (Duh!)"
+   }, {
+     "tip": "Use strength and speed potions (/shop)"
+   }, {
+     "tip": "ALWAYS carry multiple enderpearls, just in case. Don’t be afraid to leave a fight you can’t win."
+   }, {
+     "tip": "Carry food. The best is steak or enchanted golden apples for quick healing. Use /shop to purchase them anytime you are out of combat."
+   }, {
+     "tip": "Never PvP with high levels of XP; use it to buy special enchantments!"
+   }, {
+     "tip": "Carry multiple sets into PvP, in case your old one breaks or becomes worn."
+   }, {
+     "tip": "Whenever you pick up very good loot, enderpearl far away and /hub. Empty the loot and continue."
+   }, {
+     "tip": "Use a M O U S E! Never PvP with a trackpad [Preferred]"
+   }, {
+     "tip": "Use the command /delhome <name> to remove a home."
+   }, {
+     "tip": "Use the command /home <name> to teleport to a home."
+   }, {
+     "tip": "Use the command /sethome <name> to create a home or update it's position."
+   }
+ ]
+}
