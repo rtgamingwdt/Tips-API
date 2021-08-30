@@ -9,4 +9,4 @@ app.get("/", (req, res) => {
   res.send(api.tips[random]);
 });
 
-app.listen(5000);
+app.listen(process.env.PORT);
