@@ -9,7 +9,7 @@ app.get("/factions", (req, res) => {
 });
 
 app.use((req, res) => {
-  res.send({ message: "Something went wrong qwq.", error: "404: Page was not found"});
+  res.send({ message: "Something went wrong.", error: "404: Page was not found"});
 });
 
 app.listen(process.env.PORT);
